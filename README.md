@@ -37,38 +37,46 @@
 - support与androidx
 - Android Material Design
 - Android依赖管理
+实战：用第三方包快速完成banner功能
 
 #### Android页面布局、常用UI控件
 - Android Studio UI Editor的使用
 - LinearLayout
 - RelativeLayout
+- GridLayout
+- RelativeLayout
 - FrameLayout
-- ConstraintLayout
+- ConstraintLayout拖拽开发
 - Material Design常用控件（TextView、ImageView、EditText）
+- 如何查看别人的App：UIAutomatorViewer
 - 实战案例：仿微信底部tab
+- 实战案例：仿微信“我的”页面
 
 #### Android最基础组件——Activity与Fragment
 - Activity的介绍与使用（页面跳转）
 - MainFast的介绍
+- 实战案例：页面跳转
+- UI组件操作
 - Fragment的介绍与使用（页面切换）
 - 实战案例：使仿微信底部tab具有切换页面功能
-- 实战案例：页面跳转
 
 #### Android的列表
 - RecyclerView的介绍与使用
 - 设计模式——适配器模式
 - RecyclerView的Adapter与Holder
 - 下拉刷新与上拉加载
-- 骨架屏的实现
+- 实战案例：
+- 作业：仿微信朋友圈（静态页面）
 
 #### Android网络请求与json解析
 - Android常用的网络请求库 okhttp
 - Android常用的json解析库 Gson
 - okhttp+Gson封装与使用
+- 实战案例：仿微信朋友圈（动态填充数据）
 
 #### Android开发架构MVVM
 - MVVM的介绍、与MVC、MVP的区别
 - MVVM在Android中对应的具体组件
 - ViewModel的介绍与使用
 - Mutable的介绍与使用
-- Android打包
+- 实战案例：Android打包

@@ -13,7 +13,7 @@
 主要是Android开发常用组件（架构组件+UI组件）
 
 - kotlin入门
-- Jetpack Hint
+- Jetpack ViewBinding
 - Jetpack Room
 - Material Design ToolBar
 - Material Design ViewPager
