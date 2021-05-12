@@ -32,29 +32,31 @@
 - Android模拟器安装与开发配置（布局视图）
 - 真机开发配置（开发者模式+USB调试）
 - 新建Android项目
+- 运行Android项目
 - Android项目的目录结构
-- Android Jetpack
+- Android Jetpack（Google官方提供的各种库的统称）
 - support与androidx
-- Android Material Design
+- 学习开源代码的注意事项
+- Android Material Design（Google官方提供的UI规范及UI库）
 - Android依赖管理
-实战：用第三方包快速完成banner功能
+- 实战：用第三方包快速完成banner功能
 
 #### Android页面布局、常用UI控件
 - Android Studio UI Editor的使用
 - LinearLayout
+- 实战案例：仿微信底部tab
 - RelativeLayout
 - GridLayout
-- RelativeLayout
-- FrameLayout
+- 实战案例：仿微信朋友圈的九张图片
+- FrameLayout（后面详细讲）
 - ConstraintLayout拖拽开发
 - Material Design常用控件（TextView、ImageView、EditText）
 - 如何查看别人的App：UIAutomatorViewer
-- 实战案例：仿微信底部tab
 - 实战案例：仿微信“我的”页面
 
 #### Android最基础组件——Activity与Fragment
 - Activity的介绍与使用（页面跳转）
-- MainFast的介绍
+- AndroidManifest的介绍
 - 实战案例：页面跳转
 - UI组件操作
 - Fragment的介绍与使用（页面切换）
@@ -65,7 +67,7 @@
 - 设计模式——适配器模式
 - RecyclerView的Adapter与Holder
 - 下拉刷新与上拉加载
-- 实战案例：
+- 实战案例：仿微信聊天列表
 - 作业：仿微信朋友圈（静态页面）
 
 #### Android网络请求与json解析
