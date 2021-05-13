@@ -12,9 +12,8 @@
 ## 培训的内容
 主要是Android开发常用组件（架构组件+UI组件）
 
-- kotlin入门
+- kotlin快速入门
 - Jetpack ViewBinding
-- Jetpack Room
 - Material Design ToolBar
 - Material Design ViewPager
 - Material Design TabLayout
