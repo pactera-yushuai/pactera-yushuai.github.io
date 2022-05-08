@@ -27,22 +27,30 @@
 ## 培训的内容
 ### 内容的选取上，遵循二八原则，只讲最常用的20%的内容，覆盖80%的应用场景
 #### Android开发环境搭建、当前流行的Android开发技术
+- 课程概要与Android就业市场现状
+- 课程特点
 - Android Studio 安装与配置
 - Android SDK介绍与安装注意事项
-- Android模拟器安装与开发配置（布局视图）
+- Android模拟器安装与注意事项
 - 真机开发配置（开发者模式+USB调试）
 - 新建Android项目
 - 运行Android项目
-- Android项目的目录结构
+- Android项目的目录结构及常用文件（AndroidManifest、gradle）
 - Android Jetpack（Google官方提供的各种库的统称）
 - support与androidx
 - 学习开源代码的注意事项
 - Android Material Design（Google官方提供的UI规范及UI库）
+- Material Design常用控件（TextView、ImageView、EditText）
+- Android Studio UI Editor的使用
 - Android依赖管理
 - 实战：用第三方包快速完成banner功能
+- Android系统架构
+- 生命周期
+- 问题：下面哪个不是生命周期的概念
+- 组件控制（findViewById、Jetpack ViewBinding）
 
 #### Android页面布局、常用UI控件
-- Android Studio UI Editor的使用
+- Android UI开发的过去、现在及未来
 - LinearLayout
 - 实战案例：仿微信底部tab
 - RelativeLayout
@@ -50,7 +58,7 @@
 - 实战案例：仿微信朋友圈的九张图片
 - FrameLayout（后面详细讲）
 - ConstraintLayout拖拽开发
-- Material Design常用控件（TextView、ImageView、EditText）
+- （布局视图）
 - 如何查看别人的App：UIAutomatorViewer
 - 实战案例：仿微信“我的”页面
 
