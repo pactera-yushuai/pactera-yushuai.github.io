@@ -9,7 +9,6 @@
 
 # Dart语法
 - 访问控制：通过 _ 来控制访问权限
-- 匿名函数
 
 # Flutter的两种Widget
 - StatefulWidget：有 状态
