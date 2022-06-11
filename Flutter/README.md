@@ -58,3 +58,14 @@ https://flutter.cn/docs/development/ui/layout
 
 ## 踩坑
 - https://blog.csdn.net/niexier/article/details/116201055
+
+## 页面状态保持
+- https://blog.csdn.net/q714093365/article/details/102603539
+
+### 布局溢出
+- Row和Column溢出：https://www.jianshu.com/p/17bacb6ffefc
+- ListView的Item溢出：https://www.flutterclutter.dev/flutter/troubleshooting/widget-overflowed-by-pixels/2020/461/
+- 
+#### 键盘溢出
+- https://www.jianshu.com/p/742257cd4bad
+- 
