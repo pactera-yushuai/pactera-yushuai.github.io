@@ -24,6 +24,7 @@ https://flutter.cn/docs/development/ui/layout
 - Column：纵向布局
 - SizedBox：边距
 - Expanded：占满剩余空间
+- 百分比布局：https://www.coolcou.com/flutter-tutorial/flutter-page-layout/flutter-fractionallysizedbox.html
 
 #### 非平面式
 - Stack：从下往上堆叠
@@ -58,3 +59,17 @@ https://flutter.cn/docs/development/ui/layout
 
 ## 踩坑
 - https://blog.csdn.net/niexier/article/details/116201055
+
+### 布局溢出：
+#### ListView的Item布局溢出：
+- Expanded解决 https://www.likecs.com/show-204729342.html
+- Flexable解决 https://www.5axxw.com/questions/content/5kgh59
+#### 键盘弹出的布局溢出：
+- https://www.cnblogs.com/gloryhope/p/11307084.html
+- https://www.it610.com/article/1296301706576994304.htm
+- https://wenku.baidu.com/view/696ee687de3383c4bb4cf7ec4afe04a1b071b067.html
+
+# IDE使用
+- 布局调试：https://flutter.cn/docs/development/tools/devtools/inspector
+- 控制台报错：https://flutter.cn/docs/testing/common-errors
+
