@@ -60,16 +60,26 @@ https://flutter.cn/docs/development/ui/layout
 ## 踩坑
 - https://blog.csdn.net/niexier/article/details/116201055
 
+
 ### 布局溢出：
+
 #### ListView的Item布局溢出：
 - Expanded解决 https://www.likecs.com/show-204729342.html
 - Flexable解决 https://www.5axxw.com/questions/content/5kgh59
+- Row和Column溢出：https://www.jianshu.com/p/17bacb6ffefc
+- ListView的Item溢出：https://www.flutterclutter.dev/flutter/troubleshooting/widget-overflowed-by-pixels/2020/461/
+
 #### 键盘弹出的布局溢出：
 - https://www.cnblogs.com/gloryhope/p/11307084.html
 - https://www.it610.com/article/1296301706576994304.htm
 - https://wenku.baidu.com/view/696ee687de3383c4bb4cf7ec4afe04a1b071b067.html
+- https://www.jianshu.com/p/742257cd4bad
+
+
+## 页面状态保持
+- https://blog.csdn.net/q714093365/article/details/102603539
+
 
 # IDE使用
 - 布局调试：https://flutter.cn/docs/development/tools/devtools/inspector
 - 控制台报错：https://flutter.cn/docs/testing/common-errors
-
